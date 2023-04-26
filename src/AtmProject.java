@@ -17,6 +17,11 @@ public class AtmProject {
         System.out.println("bir kısım kodlar");
         //kvnç2
 
+
+        System.out.println();
+        //kvnç3
+
+
     }
 
 
