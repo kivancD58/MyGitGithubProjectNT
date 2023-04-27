@@ -21,6 +21,7 @@ public class AtmProject {
         System.out.println();
         //kvnç3
         //localde değişiklik yaptım.
+        //remoteda değişiklik yaptım.
 
 
     }
